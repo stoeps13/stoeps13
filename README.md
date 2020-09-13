@@ -1,31 +1,32 @@
-### Hi, I'm Christoph - aka [stoeps][website]
+<h1 align="center">Hi 👋, I'm Christoph aka stoeps</h1>
+<h3 align="center">Linux fan boy from Germany.</h3>
 
-[![Website](https://img.shields.io/website?label=stoeps.de&style=for-the-badge&url=https%3A%2F%2Fstoeps.de)](https://stoeps.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/stoeps?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%stoeps13&screen_name=stoeps)
+- 🔭 I’m currently working on **HCL Connections Unittests**
 
-## I'm Husband, Father, Admin, Speaker and sometimes Blogger
+- 🌱 I’m currently learning **Kubernetes**
 
-- 2020 Goals:
-    - Contribute to Open Source projects
-    - Finish CKA (Certified Kubernetes Administrator)
-    - Learn new things
+- 📝 I regularly write articles on [https://stoeps.de](https://stoeps.de)
 
-### Connect with me:
+- 💬 Ask me about **HCL Connections, Kubernetes and Docker**
 
-[<img align="left" alt="stoeps.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Stoeps | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="stoeps | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stoeps | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="stoeps | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫 How to reach me **christoph.stoettner@gmail.com**
 
-### Languages
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></p>
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoeps13)](https://github.com/stoeps13/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoeps13&layout=compact&hide=html" alt="stoeps13" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stoeps13&show_icons=true" alt="stoeps13" /></p>
 
+<p align="center">
+<a href="https://codepen.io/stoeps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="stoeps" height="30" width="30" /></a>
+<a href="https://twitter.com/stoeps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stoeps" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/christophstoettner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christophstoettner" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/stoeps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stoeps" height="30" width="30" /></a>
+<a href="https://fb.com/christophstoettner.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="christophstoettner.3" height="30" width="30" /></a>
+<a href="https://instagram.com/christophstoettner9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christophstoettner9" height="30" width="30" /></a>
+</p>
 [website]: https://stoeps.de
 [twitter]: https://twitter.com/stoeps
 [instagram]: https://www.instagram.com/christophstoettner9/
-[linkedin]: https://www.linkedin.com/in/christophstoettner 
+[linkedin]: https://www.linkedin.com/in/christophstoettner
 [facebook]: https://www.facebook.com/christoph.stoettner.3
-

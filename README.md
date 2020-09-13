@@ -15,7 +15,7 @@
 
 <br />
 
-<p align="left">
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -35,7 +35,7 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoeps13&layout=compact&hide=html" alt="stoeps13" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoeps13&layout=compact&hide=html" alt="stoeps13" /></p>
 
 <br /><br />
 

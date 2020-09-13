@@ -35,11 +35,11 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoeps13&layout=compact&hide=html" alt="stoeps13" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoeps13&layout=compact&hide=html" alt="stoeps13" /></p>
 
 <br /><br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stoeps13&show_icons=true" alt="stoeps13" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stoeps13&show_icons=true" alt="stoeps13" /></p>
 
 <br />
 

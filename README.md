@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christoph aka stoeps</h1>
+<h1 align="center">Hi I'm Christoph aka stoeps</h1>
 <h3 align="center">Linux fan from Germany.</h3>
 
 - 🔭 I’m currently working on **HCL Connections Unittests**

@@ -48,6 +48,6 @@
 <a href="https://linkedin.com/in/christophstoettner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christophstoettner" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/stoeps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stoeps" height="30" width="30" /></a>
 <a href="https://fb.com/christophstoettner.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="christophstoettner.3" height="30" width="30" /></a>
-<a href="https://instagram.com/christophstoettner9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christophstoettner9" height="30" width="30" /></a>
+<a href="https://instagram.com/stoeps13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christophstoettner9" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/stoeps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="stoeps" height="30" width="30" /></a>
 </p>

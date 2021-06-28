@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Christoph aka stoeps</h1>
 <h3 align="center">Linux fan from Germany.</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/stoeps?style=social)
-
 - 🔭 I’m currently working on **HCL Connections Unittests**
 
 - 🌱 I’m currently learning **Kubernetes**

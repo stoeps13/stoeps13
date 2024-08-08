@@ -1,17 +1,15 @@
 <h1 align="center">Hi I'm Christoph aka stoeps</h1>
 <h3 align="center">Linux fan from Germany.</h3>
 
-- 🔭 I’m currently working on **HCL Connections Unittests**
+- 🔭 I’m currently working on **HCL Connections Ansible roles**, **Hack the box challenges**, **Containerization**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning for **OSCP**
 
 - 📝 I regularly write articles on [https://stoeps.de](https://stoeps.de)
 
 - 💬 Ask me about **HCL Connections, Asciidoctor, Kubernetes and Docker**
 
 - 📫 How to reach me **https://stoeps.de/contact/**
-
-- ⚡ Fun fact **Beer over wine**
 
 <br />
 

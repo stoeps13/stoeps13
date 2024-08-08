@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HCL Connections, Asciidoctor, Kubernetes and Docker**
 
-- 📫 How to reach me **https://stoeps.de/contact/**
+- 📫 How to reach me **https://stoeps.de/authors/christoph-stoettner/**
 
 <br />
 
